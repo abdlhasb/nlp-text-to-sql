@@ -1,2 +1,2 @@
-# nlp-text-to-sql
-Transforming Text-to-SQL: Leveraging Large Language Models for Query Generation
+# Transforming Text-to-SQL: Leveraging Large Language Models for Query Generation
+This repository contains the source code of our proposed method. Transforming Text-to-SQL: Leveraging Large Language Models for Query Generation
