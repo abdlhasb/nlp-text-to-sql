@@ -4,3 +4,4 @@
 
 /.vs/TextToSql
 /sql_gen/logs
+/data/spider/test_database
